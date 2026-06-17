@@ -1,6 +1,6 @@
 # Antarctica Data Scientist Challenge
 
-This repository contains my submission for the Antarctica Data Scientist coding / statistics challenge.
+This repository contains my submission for the Antarctica Data Scientist Challenge.
 
 I completed:
 
